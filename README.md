@@ -13,7 +13,7 @@
 
 
 - 2 First things i did was google his name Rick Eviltn 
-found a youtube channel it had two videos and they had 0 views at the time of the contest first thing that came to my mind bingo frame by frame or sound reverse did that but sadly nothing i didnt watch the other video ---
+found a youtube channel it had two videos and they had 0 views at the time of the contest first thing that came to my mind bingo frame by frame or sound reverse did that but sadly nothing i didnt watch the other video 
 
 
 
