@@ -3,7 +3,7 @@
 
 - 1 OSINT{Rick's House - HARD} The challenge description tells you that there this guy called Rick Evelyn and they told you to find his house
 
-https://raw.githubusercontent.com/Al-khalid/writeup/master/1.jpg?token=AV6I5XDPBRDA7ZEW32VRB3TBVKIS4
+
 
 
 
@@ -40,7 +40,7 @@ found a youtube channel it had two videos and they had 0 views at the time of th
 - 6 I found twitter account @reviltn
  which is basically a waste of time  anyway I started searching photo sites about his username after searching I remember flicker which allows you to upload images with their original EXIF so I went to http://flicker.com and looked for
  
- 
+![clarification](https://raw.githubusercontent.com/Al-khalid/writeup/master/1.jpg?token=AV6I5XDPBRDA7ZEW32VRB3TBVKIS4)
  
  
  
