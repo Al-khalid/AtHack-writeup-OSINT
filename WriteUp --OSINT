@@ -23,6 +23,7 @@ anyway i wasted too much time on Gmaps and Google Earth after searching more and
 @reviltn
  which is basically waste of time  anyway i started searching photo sites about his username after searching i remember flicker which allow you to upload images with its original exif so i went to http://flicker.com and looked for --
 
+![clarification](https://github.com/Al-khalid/writeup/blob/master/1.jpg)
 
  رمز رقم 7-- rick eviltn found it with 4 photos downloaded them and used exiftool to get its info but it was useless it had no location or anything so i used binwalk and found that the pics had hidden videos inside so i extracted them using binwalk -e photo_name --
 
