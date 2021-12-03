@@ -16,11 +16,11 @@
 found a youtube channel it had two videos and they had 0 views at the time of the contest first thing that came to my mind bingo frame by frame or sound reverse did that but sadly nothing i didnt watch the other video ---
 
 
-![clarification](https://raw.githubusercontent.com/Al-khalid/writeup/master/2.jpg?token=AV6I5XD6XXRKWLCQGBADO3TBVKI22)
+
 
 - 3 cuz it was 3 mins and I thought it was just a waste of time The idea of the search came to my mind came I tried to use tools, sites, and methods to search for an account with this name
 
-![clarification](https://raw.githubusercontent.com/Al-khalid/writeup/master/3.jpg?token=AV6I5XHNBW6PVFONJYUPRBLBVKI7A)
+
 
 
 - 4 Gadgets and sites gave me a lot of accounts like his Instagram account, it had 5 photos, one of them was obviously the mouse pointer in the photo, I skipped that photo and looked at the other photos I do a reverse image search, it wasn't ok, so I started googling for text in images and found 
