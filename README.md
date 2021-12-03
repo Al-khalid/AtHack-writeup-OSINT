@@ -56,6 +56,7 @@ found a youtube channel it had two videos and they had 0 views at the time of th
 
 
 
+![clarification](https://raw.githubusercontent.com/Al-khalid/writeup/master/8.jpg?token=AV6I5XGBODCOZX7BFXH5YTTBVKJQM)
 
 
 
