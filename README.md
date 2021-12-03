@@ -46,7 +46,7 @@ found a youtube channel it had two videos and they had 0 views at the time of th
  
  - 7 I found rick eviltn you have with 4 photos downloaded them and used ExifTool to get its info but it was useless it had no location or anything so I used binwalk and found that the pics had hidden videos inside so I extracted them using binwalk -e photo_name 
 
-
+![clarification](https://raw.githubusercontent.com/Al-khalid/writeup/master/Screenshot%202021-12-04%20004235.jpg?token=AV6I5XB2L5D5BFNJQ7LY7X3BVKJJM)
  - 8 anyhow the videos was another rabbit hole it was a video of "Rick" censoring people faces which were useless so while looking at flicker I found it has a map function so I used it and moved to where all the images were taken and boom
 
 
