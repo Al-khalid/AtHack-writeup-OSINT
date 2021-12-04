@@ -41,7 +41,7 @@ found a youtube channel it had two videos and they had 0 views at the time of th
  which is basically a waste of time  anyway I started searching photo sites about his username after searching I remember flicker which allows you to upload images with their original EXIF so I went to http://flicker.com and looked for
  
 
- 
+ ![clarification](https://raw.githubusercontent.com/Al-khalid/AtHack-writeup-OSINT/master/1.jpg)
  
  
  - 7 I found rick eviltn you have with 4 photos downloaded them and used ExifTool to get its info but it was useless it had no location or anything so I used binwalk and found that the pics had hidden videos inside so I extracted them using binwalk -e photo_name 
