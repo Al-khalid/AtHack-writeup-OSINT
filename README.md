@@ -52,7 +52,7 @@ found a youtube channel it had two videos and they had 0 views at the time of th
 
 
 
- - 9 the flag was simply the building name as they said AtTack CTF{Residence-Les-Violettes} and that's it thanks for reading wish that you had fun as I did
+ - 9 the flag was simply the building name as they said AtHackCTF{Residence-Les-Violettes} and that's it thanks for reading wish that you had fun as I did
 
 
 
