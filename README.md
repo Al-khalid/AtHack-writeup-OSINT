@@ -16,7 +16,7 @@
 
  ![clarification](https://github.com/Al-khalid/AtHack-writeup-OSINT/blob/master/2.jpg)
 
-- 3 cuz it was 3 mins and I thought it was just a waste of time The idea of the search came to my mind came I tried to use tools, sites, and methods to search for an account with this name
+- 3 I thought it was just a waste of time The idea of the search came to my mind came I tried to use tools, sites, and methods to search for an account with this name
 
  ![clarification](https://raw.githubusercontent.com/Al-khalid/AtHack-writeup-OSINT/master/3.jpg)
 
@@ -50,7 +50,7 @@
 
 
 
- - 9 the flag was simply the building name as they said AtHackCTF{Residence-Les-Violettes} and that's it thanks for reading wish that you had fun as I did
+ - 9 the flag was simply the building name as they said AtHackCTF{Residence-Les-Violettes} and that's it thanks for reading wish that you had fun
 
 
 
