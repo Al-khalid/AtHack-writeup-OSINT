@@ -12,8 +12,7 @@
 
 
 
-- 2 The first thing I did was google his name Rick Eviltn 
-found a youtube channel it had two videos and they had 0 views at the time of the contest first thing that came to my mind was bingo frame by frame or sound reverse did that but sadly nothing I didn't watch the other video 
+- 2 The first thing I did was google his name Rick Evilyn found a youtube channel it has two videos  
 
  ![clarification](https://github.com/Al-khalid/AtHack-writeup-OSINT/blob/master/2.jpg)
 
